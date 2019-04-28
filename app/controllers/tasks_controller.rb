@@ -16,4 +16,7 @@ class TasksController < ApplicationController
 
     redirect_to '/tasks'
   end
+  
+  def show
+  end
 end
